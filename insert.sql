@@ -45,5 +45,5 @@ INSERT INTO books_subjects(book,subject) values(5,6);
 INSERT INTO books_subjects(book,subject) values(6,6);
 INSERT INTO books_subjects(book,subject) values(6,7);
 INSERT INTO books_subjects(book,subject) values(7,8);
-INSERT INTO books_subjects(book,subject) values(8,7);
 INSERT INTO books_subjects(book,subject) values(8,8);
+INSERT INTO books_subjects(book,subject) values(8,9);
