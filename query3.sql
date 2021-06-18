@@ -1,0 +1,1 @@
+SELECT x.title FROM books x,subjects y, books_subjects z WHERE x.id = z.book AND y.id = z.subject AND y.name in ('Politics','Technology');
